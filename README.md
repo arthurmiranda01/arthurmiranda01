@@ -1,4 +1,4 @@
-### Olá! Meu nome é Arthur Miranda, bem-vindo ao meu Github✅
+### Hello! My name is Arthur Miranda and welcome to my Github✅
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-miranda-8418801b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur.miranda01/)
@@ -10,7 +10,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmiranda01&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Técnologias que utilizo no meu dia
+## My current programming languages & technologies 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
